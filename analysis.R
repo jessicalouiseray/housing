@@ -1,4 +1,4 @@
-# This script analyses housing data for Luxembourg
+# This script analyses housing data for Luxembourg and is being used for a git demo
 
 library(dplyr)
 library(ggplot2)
